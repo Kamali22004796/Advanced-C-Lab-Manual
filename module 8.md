@@ -67,7 +67,9 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-7.png)
+
+<img width="495" height="108" alt="image" src="https://github.com/user-attachments/assets/a054312b-5d18-4490-aa03-14ddee99b5b9" />
+
 
 ### Result:
 Thus, the program is verified successfully.
@@ -121,7 +123,9 @@ int main() {
 
 
 ### Output:
-![alt text](imgs/image-5.png)
+
+<img width="456" height="99" alt="image" src="https://github.com/user-attachments/assets/be23396e-c94d-49cd-8850-934fa0ac3d38" />
+
 
 ### Result:
 Thus, the program is verified successfully.
@@ -183,7 +187,10 @@ int main(void){
 
 
 ### Output:
-![alt text](imgs/image-9.png)
+
+
+<img width="490" height="359" alt="image" src="https://github.com/user-attachments/assets/da004891-c507-4cea-b15b-d3027c7d885b" />
+
 
 ### Result:
 Thus, the program is verified successfully.
@@ -233,7 +240,9 @@ int main() {
 
 
 ### Output:
-![alt text](imgs/image-6.png)
+
+<img width="501" height="463" alt="image" src="https://github.com/user-attachments/assets/b0a362b1-689c-4e8e-9e6d-01dba244fa04" />
+
 
 ### Result:
 Thus, the program is verified successfully.
@@ -282,7 +291,9 @@ int main() {
 
 
 ### Output:
-![alt text](imgs/image-8.png)
+
+<img width="509" height="108" alt="image" src="https://github.com/user-attachments/assets/c7ae42db-4078-400b-9732-0a5574cfe5a5" />
+
 
 ### Result:
 Thus, the program is verified successfully.
