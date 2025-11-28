@@ -77,7 +77,8 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-15.png)
+
+<img width="489" height="249" alt="image" src="https://github.com/user-attachments/assets/b9ad5989-cf55-41d6-8da2-9d6bcc677dfe" />
 
 ### Result:
 Thus, the program to search a given element in the given linked list is verified successfully.
@@ -156,7 +157,9 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-16.png)
+
+<img width="495" height="222" alt="image" src="https://github.com/user-attachments/assets/f1a319e2-f422-47aa-a7ac-86af48cf01e8" />
+
 
 ### Result:
 Thus, the program to insert a node in a linked list is verified successfully.
@@ -232,7 +235,9 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-17.png)
+
+<img width="497" height="224" alt="image" src="https://github.com/user-attachments/assets/683e2433-6c3e-4cad-a488-166a4de2131e" />
+
 
 ### Result:
 Thus, the program to traverse a doubly linked list is verified successfully.
@@ -377,7 +382,9 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-19.png)
+
+<img width="795" height="370" alt="image" src="https://github.com/user-attachments/assets/2c5d97ce-b117-4f78-8eae-10f8bc117945" />
+
 
 ### Result:
 Thus, the program to insert an element in doubly linked list is verified successfully.
@@ -534,7 +541,9 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-18.png)
+
+<img width="501" height="370" alt="image" src="https://github.com/user-attachments/assets/940f1e7f-c07b-4e5a-957d-d4f1453433ef" />
+
 
 ### Result:
 Thus, the function that deletes a given element from a linked list is verified successfully.
